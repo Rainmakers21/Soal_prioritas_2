@@ -1,0 +1,4 @@
+String[] nama = {"Andi", "Budi", "Cindy"};
+for (String n : nama) {
+    System.out.println(n);
+}
