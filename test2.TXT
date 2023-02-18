@@ -4,7 +4,11 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Masukkan angka pertamaa: ");
+<<<<<<< HEAD
+        System.out.print("Masukkan angka pertama: ");
+=======
+        System.out.print("Masukkan angka pertama: ");
+>>>>>>> FeatureB
         int angkaPertama = scanner.nextInt();
 
         System.out.print("Masukkan angka kedua: ");
